@@ -1,0 +1,3 @@
+Czas trwania symulacji(w dniach):300
+Krok czasowy(w dniach):0.1
+O ile ma maleć masa w każdym kroku:7e21
